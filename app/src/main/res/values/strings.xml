@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickSettingsBug</string>
+    <string name="bug_report">This is a bug report</string>
+    <string name="quick_settings_prompt">Flick any direction on the fingerprint sensor to show quick settings.
+    \n\n1. Do this without the notification shade down. It should work flawlessly.
+    \n\n2. Now repeat the gesture with the notifications shade down, but quick settings closed. Notice nothing happens. Wait a couple of seconds and then quick settings may show abruptly or it may not. It\'s inconsistent.</string>
+    <string name="accessibility_prompt">Tap to enable accessibility settings</string>
+</resources>
